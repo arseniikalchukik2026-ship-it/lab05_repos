@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Laba5.1/Laba5.1.vcxproj" />
+  <Project Path="Laba5.1/Laba5.1.vcxproj" Id="3b9e391d-3efc-4f0a-ae6c-53f07056f977" />
+  <Project Path="UnitTest2/UnitTest2.vcxproj" />
 </Solution>
